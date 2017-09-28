@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="1086" type="PLAIN_TEXT" />
+      <mapping pattern="1062927" type="PLAIN_TEXT" />
       <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping ext="legal-displayed" type="PLAIN_TEXT" />
     </extensionMap>
